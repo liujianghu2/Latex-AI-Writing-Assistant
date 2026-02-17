@@ -1509,7 +1509,7 @@ export function Sidebar() {
           </Button>
           <Button variant="ghost" size="icon" className="size-6" asChild>
             <a
-              href="https://github.com/assistant-ui/open-prism"
+              href="https://github.com/liujianghu2/Latex-AI-Writing-Assistant"
               target="_blank"
               rel="noopener noreferrer"
               title="GitHub"
