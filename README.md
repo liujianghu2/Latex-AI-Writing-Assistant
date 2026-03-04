@@ -2,7 +2,7 @@
 
 Open-source AI-powered LaTeX writing workspace with live preview.
 
-![Open-Prism Screenshot](./assets/Latex.png)
+![Latex](./assets/Latex.png)
 
 ## Features
 
