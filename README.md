@@ -1,8 +1,8 @@
-# Open-Prism
+# Latex-AI-Writing-Assistant
 
 Open-source AI-powered LaTeX writing workspace with live preview.
 
-![Open-Prism Screenshot](./assets/OpenPrism.png)
+![Open-Prism Screenshot](./assets/Latex.png)
 
 ## Features
 
