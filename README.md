@@ -1,6 +1,6 @@
 # Latex-AI-Writing-Assistant
 
-Open-source AI-powered LaTeX writing workspace with live preview.
+Open-source AI-powered LaTeX writing workspace with live preview.This project is based on the open-source project Open-Prism: https://github.com/assistant-ui/open-prism.
 
 ![Latex](./assets/Latex.png)
 
