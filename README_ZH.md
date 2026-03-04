@@ -1,8 +1,8 @@
-# Open-Prism（中文部署说明）
+# Latex-AI-写作助手（中文部署说明）
 
-开源 AI 驱动的 LaTeX 写作工作台，提供实时预览与智能辅助写作。
+开源 AI 驱动的 LaTeX 写作工作台，提供实时预览与智能辅助写作。本项目基于开源项目Open-Prism：https://github.com/assistant-ui/open-prism
 
-![Open-Prism Screenshot](./assets/OpenPrism.png)
+![Latex](./assets/Latex.png)
 
 ## 功能特性
 
