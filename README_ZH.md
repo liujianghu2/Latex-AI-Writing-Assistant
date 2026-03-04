@@ -3,6 +3,9 @@
 开源 AI 驱动的 LaTeX 写作工作台，提供实时预览与智能辅助写作。本项目基于开源项目Open-Prism：https://github.com/assistant-ui/open-prism
 
 ![Latex](./assets/Latex.png)
+![set-model](./assets/set-model.png)
+![setting](./assets/setting.png)
+![lookup](./assets/lookup.png)
 
 ## 功能特性
 
